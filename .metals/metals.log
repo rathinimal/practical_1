@@ -1,0 +1,106 @@
+2024.06.18 23:22:23 INFO  Started: Metals version 1.3.1 in folders '/home/nimal/Desktop/lab_session1/sample/practical_1' for client Visual Studio Code 1.89.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@31dcc7ac]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@332032b0]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@31dcc7ac]
+2024.06.18 23:22:23 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.18 23:22:25 INFO  no build target found for /home/nimal/Desktop/lab_session1/sample/practical_1/Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.18 23:22:28 INFO  Running List(/home/nimal/.local/share/coursier/bin/scala-cli, setup-ide, /home/nimal/Desktop/lab_session1/sample/practical_1)
+2024.06.18 23:22:28 INFO  Attempting to connect to the build server...
+2024.06.18 23:22:28 INFO  Running BSP server List(/home/nimal/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /home/nimal/Desktop/lab_session1/sample/practical_1/.scala-build/ide-options-v2.json, --json-launcher-options, /home/nimal/Desktop/lab_session1/sample/practical_1/.scala-build/ide-launcher-options.json, --envs-file, /home/nimal/Desktop/lab_session1/sample/practical_1/.scala-build/ide-envs.json, /home/nimal/Desktop/lab_session1/sample/practical_1)
+2024.06.18 23:22:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/nimal/Desktop/lab_session1/sample/practical_1/.metals/bsp.trace.json or /home/nimal/.cache/metals/bsp.trace.json
+2024.06.18 23:22:30 INFO  time: Connected to build server in 1.79s
+2024.06.18 23:22:30 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.18 23:22:30 INFO  time: Imported build in 0.18s
+2024.06.18 23:22:31 INFO  compiling practical_1_27c197121a (5 scala sources)
+2024.06.18 23:22:32 INFO  time: compiled practical_1_27c197121a in 1.53s
+2024.06.18 23:22:32 INFO  compiling practical_1_27c197121a (5 scala sources)
+2024.06.18 23:22:32 INFO  time: compiled practical_1_27c197121a in 0.63s
+2024.06.18 23:22:37 INFO  time: indexed workspace in 7.03s
+2024.06.18 23:22:38 INFO  compiling practical_1_27c197121a (5 scala sources)
+2024.06.18 23:22:38 INFO  time: compiled practical_1_27c197121a in 0.56s
+2024.06.18 23:22:38 INFO  compiling practical_1_27c197121a (5 scala sources)
+2024.06.18 23:22:40 INFO  time: compiled practical_1_27c197121a in 0.81s
+2024.06.18 23:23:32 INFO  no build target found for /home/nimal/Desktop/lab_session1/sample/practical_1/anotherexmaple.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.18 23:23:32 INFO  time: Imported build in 0.13s
+2024.06.18 23:23:32 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:23:32 INFO  time: compiled practical_1_27c197121a in 0.67s
+2024.06.18 23:23:32 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:23:34 INFO  time: compiled practical_1_27c197121a in 0.47s
+2024.06.18 23:23:34 WARN  Could not find semantic tokens for: file:///home/nimal/Desktop/lab_session1/sample/practical_1/anotherexmaple.scala
+2024.06.18 23:23:35 INFO  time: indexed workspace in 2.65s
+2024.06.18 23:23:35 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:23:35 INFO  time: compiled practical_1_27c197121a in 0.4s
+2024.06.18 23:23:36 WARN  Could not find semantic tokens for: file:///home/nimal/Desktop/lab_session1/sample/practical_1/anotherexmaple.scala
+2024.06.18 23:23:55 WARN  Could not find semantic tokens for: file:///home/nimal/Desktop/lab_session1/sample/practical_1/anotherexmaple.scala
+2024.06.18 23:23:57 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:23:57 INFO  time: compiled practical_1_27c197121a in 0.41s
+2024.06.18 23:24:05 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:05 INFO  time: compiled practical_1_27c197121a in 0.54s
+2024.06.18 23:24:11 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:11 INFO  time: compiled practical_1_27c197121a in 0.34s
+Jun 18, 2024 11:24:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 90
+2024.06.18 23:24:18 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:18 INFO  time: compiled practical_1_27c197121a in 0.41s
+2024.06.18 23:24:19 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:19 INFO  time: compiled practical_1_27c197121a in 0.58s
+Jun 18, 2024 11:24:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 160
+2024.06.18 23:24:22 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:22 INFO  time: compiled practical_1_27c197121a in 0.38s
+2024.06.18 23:24:23 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:23 INFO  time: compiled practical_1_27c197121a in 0.85s
+2024.06.18 23:24:24 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:24 INFO  time: compiled practical_1_27c197121a in 0.42s
+2024.06.18 23:24:27 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:27 INFO  time: compiled practical_1_27c197121a in 0.29s
+2024.06.18 23:24:28 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:28 INFO  time: compiled practical_1_27c197121a in 0.37s
+2024.06.18 23:24:34 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:34 INFO  time: compiled practical_1_27c197121a in 0.38s
+2024.06.18 23:24:36 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:36 INFO  time: compiled practical_1_27c197121a in 0.28s
+2024.06.18 23:24:47 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:47 INFO  time: compiled practical_1_27c197121a in 0.33s
+2024.06.18 23:24:50 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:50 INFO  time: compiled practical_1_27c197121a in 0.26s
+2024.06.18 23:24:56 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:56 INFO  time: compiled practical_1_27c197121a in 0.33s
+2024.06.18 23:24:57 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:24:57 INFO  time: compiled practical_1_27c197121a in 0.25s
+2024.06.18 23:25:00 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:00 INFO  time: compiled practical_1_27c197121a in 0.29s
+2024.06.18 23:25:03 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:03 INFO  time: compiled practical_1_27c197121a in 0.23s
+2024.06.18 23:25:04 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:04 INFO  time: compiled practical_1_27c197121a in 0.25s
+2024.06.18 23:25:06 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:06 INFO  time: compiled practical_1_27c197121a in 0.25s
+2024.06.18 23:25:08 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:08 INFO  time: compiled practical_1_27c197121a in 0.2s
+2024.06.18 23:25:11 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:11 INFO  time: compiled practical_1_27c197121a in 0.23s
+2024.06.18 23:25:15 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:15 INFO  time: compiled practical_1_27c197121a in 0.31s
+2024.06.18 23:25:17 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:17 INFO  time: compiled practical_1_27c197121a in 0.29s
+2024.06.18 23:25:36 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:36 INFO  time: compiled practical_1_27c197121a in 0.33s
+2024.06.18 23:25:39 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:25:39 INFO  time: compiled practical_1_27c197121a in 0.19s
+2024.06.18 23:26:12 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:26:12 INFO  time: compiled practical_1_27c197121a in 0.42s
+2024.06.18 23:26:14 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:26:14 INFO  time: compiled practical_1_27c197121a in 0.24s
+2024.06.18 23:26:31 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:26:31 INFO  time: compiled practical_1_27c197121a in 0.22s
+2024.06.18 23:26:32 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:26:32 INFO  time: compiled practical_1_27c197121a in 0.2s
+2024.06.18 23:26:34 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:26:34 INFO  time: compiled practical_1_27c197121a in 0.28s
+2024.06.18 23:26:54 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:26:54 INFO  time: compiled practical_1_27c197121a in 0.25s
+2024.06.18 23:26:56 INFO  compiling practical_1_27c197121a (6 scala sources)
+2024.06.18 23:26:56 INFO  time: compiled practical_1_27c197121a in 0.24s
